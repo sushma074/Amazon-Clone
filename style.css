@@ -6,6 +6,7 @@
 }
 .Navbar{
     height:60px;
+    width:1520px;
     background-color: #0f1111;
     color:white;
     display:flex;
@@ -19,7 +20,7 @@
 
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Logo/amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100%;
@@ -103,6 +104,7 @@ span{
 /*Pannel*/
 .panel{
     height:40px;
+    width:1520px;
     background-color: #222f3d;
     display:flex;
     color:white;
@@ -127,9 +129,10 @@ span{
 /*Hero-Image*/
 
 .hero-section{
-    background-image: url("hero_img11.jpg");
+    background-image: url("heroImage/hero_img11.jpg");
     background-size: cover;
     height:350px;
+    width:1520px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -154,7 +157,8 @@ span{
 .shop-sec{
     display: flex;
     justify-content: space-evenly;
-    background-color: #e2e7e6
+    background-color: #e2e7e6;
+    width:1520px;
     
 }
 
@@ -164,7 +168,7 @@ span{
 
 .box{
     height: 400px;
-    width:23%;
+    width:1520px;
     background-color: white;
     padding:20px 0px 15px;
     /*margin-top:15px;*/
@@ -239,7 +243,7 @@ h2{
 
 
 .advertise{
-    background-image: url("advertise.jpg");
+    background-image: url("Advertise/advertise.jpg");
     background-size: cover;
     height:300px;
     width:1200px;
@@ -318,7 +322,7 @@ h2{
 
 }
 
-/*sopnser*/
+/*sponser*/
 
 .sponser{
     height:300px;
@@ -332,7 +336,7 @@ h2{
 }
 
 .sp{
-    background-image: url("sponser1.png");
+    background-image: url("Sponser/sponser1.png");
     background-size: cover;
     margin-left: 280px;
     margin-top: 5px;
@@ -394,7 +398,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("Logo/amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100px;
