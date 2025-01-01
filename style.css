@@ -286,6 +286,11 @@ h2{
     
 }
 
+.see-offer{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
 /*Combo-sec*/
 .combo-sec{
     display:flex;
